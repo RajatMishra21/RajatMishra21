@@ -7,7 +7,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=RajatMishra21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🌱 I’m currently learning React<br><br>💬 Ask me about MERN or any tech related stuff.<br><br>📫 How to reach me mishrarajat19@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/rajat-mishra-121592258/<br><br>⚡ Fun fact I'm interested Cryptocurrency
+🌱 I’m currently learning React<br><br>💬 Ask me about any tech related stuff.<br><br>📫 How to reach me mishrarajat19@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/rajat-mishra-121592258/<br><br>⚡ Fun fact I'm interested Cryptocurrency
 
 
 ## 🌐 Socials:
